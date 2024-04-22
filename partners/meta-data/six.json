@@ -1,7 +1,7 @@
 {
     "name": "SIX Network",
     "website": "https://six.network",
-    "description": "SIX Network is a blockchain provider that has developed the SIX Protocol, a comprehensive infrastructure designed to bridge the gap between blockchain technology and real-world business applications. The SIX Protocol serves as the consensus and settlement layer, while RollApp as a Service is offered on the execution layer, helping businesses launch their blockchain applications and enabling seamless integration of blockchain capabilities into existing business processes. Additionally, SIX Network has built a reliable data availability layer for businesses called the Dynamic Data Layer, which empowers businesses to utilize and manage dynamic business data on the blockchain, opening up new possibilities for business use cases.",
+    "description": "SIX Network provides a modular blockchain solution. Its SIX Protocol acts as the consensus and settlement layer, while RollApp as a Service supports app execution. The Dynamic Data Layer manages business data on the blockchain, enhancing various business use cases."
     "logo": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/partners/brand-assets/six-logo.png",
     "twitter": "https://twitter.com/theSIXnetwork"
 }
