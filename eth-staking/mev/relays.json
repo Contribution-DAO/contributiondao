@@ -1,0 +1,29 @@
+{
+  "relays": [
+    {
+      "tag": "aestus-relay",
+      "name": "Aestus",
+      "imgSrc": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/eth-staking/brand-assets/aestus.png"
+    },
+    {
+      "tag": "agnostic-relay",
+      "name": "Agnostic Gnosis",
+      "imgSrc": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/eth-staking/brand-assets/agnostic.png"
+    },
+    {
+      "tag": "bloxroute-regulated-relay",
+      "name": "BioXroute Regulated",
+      "imgSrc": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/eth-staking/brand-assets/bloxroute.png"
+    },
+    {
+      "tag": "flashbots-relay",
+      "name": "Flashbots",
+      "imgSrc": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/eth-staking/brand-assets/flashbots.png"
+    },
+    {
+      "tag": "ultrasound-relay",
+      "name": "Ultra Sound",
+      "imgSrc": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/eth-staking/brand-assets/ultrasound.png"
+    }
+  ]
+}
